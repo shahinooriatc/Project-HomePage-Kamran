@@ -8,13 +8,13 @@
 }
 
 .logo_img img {
-  width: 120px;
+  width: 100px;
   border: 2px solid gray;
   border-radius: 20px;
 }
 .logo_img img:hover {
   border-radius: 15px;
-  width: 120px;
+  width: 100px;
   transform: scale(1.1);
 }
 
